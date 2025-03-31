@@ -8,7 +8,7 @@ img{
     flex-direction:column;
     width: 600px;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 0px;
     background: #fff;
     padding-bottom: 30px;
 }
@@ -96,4 +96,9 @@ img{
     font-size:19px;
     font-weight:700;
     cursor:pointer;
+}
+
+.gray{
+    background: #EAEAEA;
+    color:#676767;
 }
